@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi there 👋 I'm Nobin Chandra Rishi
 
-<!--
-**rishicybersec/rishicybersec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Cybersecurity Enthusiast  
+💻 Exploring Ethical Hacking, Pentesting & Bug Bounty  
+🐍 Building Python Security Tools  
+⚡ Kali Linux User  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Python
+- Linux
+- Networking
+- Web Security
+- Burp Suite
+- Kali Linux
+
+---
+
+## 🔥 Current Focus
+
+- Pentesting
+- Bug Bounty
+- Malware Analysis
+- SSRF & XSS
+- Security Automation
+
+---
+
+## 📌 Projects
+
+- Antivirus Scanner
+- Port Scanner
+- Hash Generator
+- Security Tools
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/rishicybersec
+
+---
+
+## 🛠️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-purple?style=for-the-badge&logo=kalilinux)
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge)
+
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+---
+
+⭐ “Learning. Building. Securing.”
