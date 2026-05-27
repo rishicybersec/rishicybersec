@@ -31,10 +31,6 @@
 ## 📌 Projects
 
 - Antivirus Scanner
-- Port Scanner
-- Hash Generator
-- Security Tools
-
 ---
 
 ## 📫 Connect With Me
