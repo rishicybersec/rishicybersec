@@ -30,7 +30,10 @@
 
 ## 📌 Projects
 
-- Antivirus Scanner
+# 🛡️ Antivirus Scanner
+
+A custom-built Antivirus Scanner developed using Python and Tkinter on Kali Linux.
+
 ---
 
 ## 📫 Connect With Me
